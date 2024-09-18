@@ -31,7 +31,7 @@
         {
             "label": "Games",
             "altText": "More Games",
-            "url": "/careers",
+            "url": "/games",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
