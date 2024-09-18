@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: 개인정보처리방침
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
