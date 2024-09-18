@@ -13,7 +13,7 @@ sections:
     text: |+
       <div style="text-align: center">차별화된 크리에이티브로 누군가의 삶에 반짝이는 즐거움으로!</div>
 
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         flexDirection: col
