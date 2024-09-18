@@ -11,8 +11,8 @@ sections:
       type: TitleBlock
     subtitle: 일상에 반짝이는 즐거움
     text: >+
-      <div style="text-align: center">차별화된 크리에이티브로 누군가의 즐거운 삶의 반짝이는 즐거움을 만들어
-      나갑니다.</div>
+      <div style="text-align: center">차별화된 크리에이티브로 누군가의 즐거운 삶에 반짝이는 즐거움이
+      되겠습니다.</div>
 
     colors: bg-light-fg-dark
     styles:
