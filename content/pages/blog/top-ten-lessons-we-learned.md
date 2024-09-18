@@ -1,5 +1,5 @@
 ---
-title: 제
+title: 제1조(개인정보의 처리 목적)
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
