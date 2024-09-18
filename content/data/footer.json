@@ -3,15 +3,8 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A touch of excitement in the everyday\n",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "text": "",
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
