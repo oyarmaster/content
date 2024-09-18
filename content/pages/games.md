@@ -158,7 +158,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: games
+slug: Games
 seo:
   type: Seo
   metaTitle: Careers - Demo site
