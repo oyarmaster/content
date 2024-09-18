@@ -18,13 +18,7 @@ sections:
 
 
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       altText: Fun feature preview
