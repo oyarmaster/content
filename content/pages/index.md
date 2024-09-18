@@ -19,6 +19,8 @@ sections:
       self:
         flexDirection: col
         justifyContent: center
+        padding:
+          - pb-36
       subtitle:
         textAlign: center
     type: GenericSection
