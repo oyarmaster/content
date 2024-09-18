@@ -1,5 +1,5 @@
 ---
-title: privacy
+title: Blog
 slug: /privacy
 numOfPostsPerPage: 12
 enableSearch: true
