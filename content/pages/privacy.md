@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: 개인정보처리방침
       color: text-dark
     subtitle: Increase your reach
     text: >
