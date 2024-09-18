@@ -8,7 +8,7 @@ topSections:
       text: 개인정보처리방침
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: privacy
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
