@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: 개인정보처리방침
+      text: Blog
       color: text-dark
       type: TitleBlock
     subtitle: privacy
