@@ -12,8 +12,8 @@
     },
     "primaryLinks": [
         {
-            "label": "오야르게임즈",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -30,8 +30,8 @@
         },
         {
             "label": "Games",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "More Games",
+            "url": "/games",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
