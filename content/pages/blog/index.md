@@ -1,6 +1,6 @@
 ---
 title: privacy
-slug: /blog
+slug: /privacy
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
