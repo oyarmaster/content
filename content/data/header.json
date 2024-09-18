@@ -22,7 +22,7 @@
         {
             "label": "개인정보처리방침",
             "altText": "privacy",
-            "url": "/blog",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
