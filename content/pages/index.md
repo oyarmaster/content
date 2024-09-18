@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: 일상에 반짝이는 즐거움
     text: >+
-      <div style="text-align: center">오야르게임즈는 모바일 콘텐츠를 만드는 게임 전문 개발사입니다. 캐주얼하고
+      <div style="text-align: center">오야르게임즈는 모바일 콘텐츠를 만드는 게임 전문 개발사입니다.캐주얼하고
       즐거운 게임을 추구하며, 보편적이면서 독특한 재미를 추구합니다.</div>
 
     colors: bg-light-fg-dark
