@@ -30,7 +30,7 @@
         },
         {
             "label": "Games",
-            "altText": "Careers page",
+            "altText": "More Games",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
