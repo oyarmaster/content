@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: Oyargames
+      text: 오야르게임즈
       color: text-dark
       styles:
         self:
