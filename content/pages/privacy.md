@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: 개인정보처리방침
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Privacy
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
