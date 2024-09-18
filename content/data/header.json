@@ -21,7 +21,7 @@
         },
         {
             "label": "개인정보처리방침",
-            "altText": "Blog",
+            "altText": "privacy",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
